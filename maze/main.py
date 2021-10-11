@@ -1,8 +1,8 @@
 from game import Game, Colors
 from mazegen import Maze
 
-rows=60
-cols=80
+rows=30
+cols=40
 resolution=10
 
 BLACK=(0,0,0)
