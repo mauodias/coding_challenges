@@ -1,5 +1,6 @@
+#!/usr/bin/env python
 from game import Game, Colors
-from mazegen import Maze
+from libmaze import Maze
 
 rows=30
 cols=40
